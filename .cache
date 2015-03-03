@@ -1,0 +1,195 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Karl\Documents\GitHub\concordance\src -> C:\Users\Karl\Documents\GitHub\concordance\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre7\lib\ext\dnsns.jar;C:\Program Files\Java\jre7\lib\ext\dns_sd.jar;C:\Program Files\Java\jre7\lib\ext\jaccess.jar;C:\Program Files\Java\jre7\lib\ext\localedata.jar;C:\Program Files\Java\jre7\lib\ext\sunec.jar;C:\Program Files\Java\jre7\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre7\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre7\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\Karl\Documents\software\eclipse\plugins\org.scala-lang.scala-library_2.11.5.v20150101-184742-3fafbc204f.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+38 items
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$10.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$8.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$9.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$process1Sentence$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$process1Sentence$2.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$updatedConcord$1$$anonfun$apply$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$updatedConcord$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$2$$anonfun$3.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$2.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4$$anonfun$5.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4$$anonfun$6.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4$$anonfun$7.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findSentences$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findSentencesAndEOS$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findWords$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findWords$2.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$printCC$1.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$11.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$12.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$13.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$14.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$15.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$16.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$17.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$18.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$19.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$20.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$21.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$.class
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp.class
+binary dependencies:
+2 items
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> C:\Users\Karl\Documents\software\eclipse\plugins\org.scala-lang.scala-library_2.11.5.v20150101-184742-3fafbc204f.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$10
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$8
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$9
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$process1Sentence$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$process1Sentence$2
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$updatedConcord$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Concord$$anonfun$updatedConcord$1$$anonfun$apply$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$$anonfun$2
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$$anonfun$2$$anonfun$3
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$$anonfun$4
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$$anonfun$4$$anonfun$5
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$$anonfun$4$$anonfun$6
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.ConcordBasic$$anonfun$4$$anonfun$7
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$$anonfun$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$$anonfun$findSentences$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$$anonfun$findSentencesAndEOS$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$$anonfun$findWords$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$$anonfun$findWords$2
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.Simple$$anonfun$printCC$1
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$11
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$12
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$13
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$14
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$15
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$16
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$17
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$18
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$19
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$20
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> concordance.testApp$$anonfun$21
+used names:
+0 items
+product stamps:
+38 items
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$10.class -> lastModified(1425358937874)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$8.class -> lastModified(1425358937874)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$9.class -> lastModified(1425358937890)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$process1Sentence$1.class -> lastModified(1425358937890)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$process1Sentence$2.class -> lastModified(1425358937890)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$updatedConcord$1$$anonfun$apply$1.class -> lastModified(1425358937906)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$$anonfun$updatedConcord$1.class -> lastModified(1425358937906)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord$.class -> lastModified(1425358937843)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Concord.class -> lastModified(1425358937781)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$2$$anonfun$3.class -> lastModified(1425358937937)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$2.class -> lastModified(1425358937921)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4$$anonfun$5.class -> lastModified(1425358937937)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4$$anonfun$6.class -> lastModified(1425358937968)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4$$anonfun$7.class -> lastModified(1425358937968)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$$anonfun$4.class -> lastModified(1425358937937)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic$.class -> lastModified(1425358937921)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\ConcordBasic.class -> lastModified(1425358937906)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$1.class -> lastModified(1425358937999)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findSentences$1.class -> lastModified(1425358937999)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findSentencesAndEOS$1.class -> lastModified(1425358937999)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findWords$1.class -> lastModified(1425358937999)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$findWords$2.class -> lastModified(1425358938015)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$$anonfun$printCC$1.class -> lastModified(1425358938015)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple$.class -> lastModified(1425358937984)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\Simple.class -> lastModified(1425358937984)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$11.class -> lastModified(1425358938046)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$12.class -> lastModified(1425358938046)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$13.class -> lastModified(1425358938046)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$14.class -> lastModified(1425358938062)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$15.class -> lastModified(1425358938062)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$16.class -> lastModified(1425358938062)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$17.class -> lastModified(1425358938078)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$18.class -> lastModified(1425358938078)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$19.class -> lastModified(1425358938093)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$20.class -> lastModified(1425358938093)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$$anonfun$21.class -> lastModified(1425358938093)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp$.class -> lastModified(1425358938031)
+C:\Users\Karl\Documents\GitHub\concordance\bin\concordance\testApp.class -> lastModified(1425358938015)
+source stamps:
+1 items
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> hash(f1d88e23ae44bc633122825b584b96a8d8b2d2fd)
+binary stamps:
+2 items
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1398824704330)
+C:\Users\Karl\Documents\software\eclipse\plugins\org.scala-lang.scala-library_2.11.5.v20150101-184742-3fafbc204f.jar -> lastModified(1425358438250)
+class names:
+2 items
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\Karl\Documents\software\eclipse\plugins\org.scala-lang.scala-library_2.11.5.v20150101-184742-3fafbc204f.jar -> scala.unchecked
+internal apis:
+1 items
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB/ml9tAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29uY29yZGFuY2UuU2ltcGxldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgAuAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADVzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmV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
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Karl\Documents\GitHub\concordance\src\concordance\testApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS94BB0F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXEthcmxcRG9jdW1lbnRzXEdpdEh1Ylxjb25jb3JkYW5jZVxiaW50AC5DOlxVc2Vyc1xLYXJsXERvY3VtZW50c1xHaXRIdWJcY29uY29yZGFuY2Vcc3Jj
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS94DTg51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XFVzZXJzXEthcmxcRG9jdW1lbnRzXEdpdEh1Ylxjb25jb3JkYW5jZVxiaW50AC5DOlxVc2Vyc1xLYXJsXERvY3VtZW50c1xHaXRIdWJcY29uY29yZGFuY2Vcc3Jj
