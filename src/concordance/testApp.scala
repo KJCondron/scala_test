@@ -12,12 +12,12 @@ object Simple {
         _.replace("_ID_EST_", "i.e.")).toList
   }
   
-  def time[A]( fn : =>A ) : (A,Long) =
+  def time[A]( fn : =>A ) : (A,Double) =
   {
     val st=java.lang.System.nanoTime
     val ret = fn
     val ed=java.lang.System.nanoTime
-    ( ret, (ed-st) / 10000 )
+    ( ret, (ed-st) * 1e-9 )
   }
   
   def check[T](o1 : T, o2 : T, msg : String) =
